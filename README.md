@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **jaywardhanshinde5@gmail.com**
 
+- All of my projects are available at [https://github.com/Jayshinde09](https://github.com/Jayshinde09)
+
+- Know about my experiences [https://www.linkedin.com/in/jaywardhan-shinde-b35236233](https://www.linkedin.com/in/jaywardhan-shinde-b35236233)
+
 
 
 <h3 align="left">Connect with me:</h3>
