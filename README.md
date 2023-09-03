@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshinde09&label=Profile%20views&color=0e75b6&style=flat" alt="jayshinde09" /> </p>
 
 <p align="left"> <a href="https://twitter.com/justjay001" target="blank"><img src="https://img.shields.io/twitter/follow/justjay001?logo=twitter&style=for-the-badge" alt="justjay001" /></a> </p>
-<p align="left"> <a href="https://twitter.com/justjay001" target="blank"><img src="https://www.linkedin.com/in/jaywardhan-shinde-b35236233/" /></a> </p>
+
 
 
 - 📝 I regularly write articles on [https://medium.com/@jaywardhanshinde5](https://medium.com/@jaywardhanshinde5)
