@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jaywardhanshinde5](https://medium.com/@jaywardhanshinde5)
 
-- 💬 Ask me about **C++,HTML,CSS,Javascript ,Java,React,php ,Python.**
+- 💬 Ask me about **C++, Python , Java , HTML , CSS, Javascript, React**
 
 - 📫 How to reach me **jaywardhanshinde5@gmail.com**
 
